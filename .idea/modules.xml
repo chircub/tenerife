@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/persistance-layer/entities.iml" filepath="$PROJECT_DIR$/persistance-layer/entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistance-layer/persistance-layer.iml" filepath="$PROJECT_DIR$/persistance-layer/persistance-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenerife.iml" filepath="$PROJECT_DIR$/tenerife.iml" />
+    </modules>
+  </component>
+</project>
